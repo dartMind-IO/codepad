@@ -1,4 +1,4 @@
-![Login Screen](images/codepad_logo.png)
+![Login Screen](images/codepad_logo.svg)
 
 # Codepad
 
