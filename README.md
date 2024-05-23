@@ -1,3 +1,5 @@
+![Login Screen](images/codepad_logo.png)
+
 # Codepad
 
 Codepad is a web-based code editor designed specifically for Dart projects. It is a product of DartMind, a company dedicated to providing innovative tools and resources for Dart developers. Codepad.io offers a comprehensive and user-friendly environment for developers to write, edit, and run Dart code directly in their web browser. Inspired by the popular DartPad, Codepad.io focuses exclusively on the Dart programming language, offering a streamlined and efficient platform for Dart developers.
@@ -24,7 +26,7 @@ To start using Codepad.io, simply visit [codepad.dartmind.io](https://codepad.da
 
 Codepad is not an open-source project, but we welcome contributions from the Dart community. If you encounter any issues while using the platform, have ideas for new features, or want to contribute improvements, we encourage you to get involved. To contribute, please follow these steps:
 
-1. Visit the public [Codepad repository]([https://github.com/dartmind](https://github.com/dartMind-IO/codepad)) on GitHub.
+1. Visit the public [Codepad repository](<[https://github.com/dartmind](https://github.com/dartMind-IO/codepad)>) on GitHub.
 2. Submit your request in the form of an issue, it can either be a feature or bug fix.
 
 Our team will review your pull request and provide feedback. We appreciate your contributions and value the collaborative effort to make Codepad.io even better.
@@ -35,7 +37,7 @@ We are committed to making Codepad the go-to platform for Dart developers. Your 
 
 - Email: support@dartmind.io
 - Twitter: [@dart_mind](https://twitter.com/dart_mind)
-- GitHub Issues: [https://github.com/dartMind-IO/codepad/issues]([https://github.com/dartmind/codepad.io](https://github.com/dartMind-IO/codepad)/issues)
+- GitHub Issues: [https://github.com/dartMind-IO/codepad/issues](<[https://github.com/dartmind/codepad.io](https://github.com/dartMind-IO/codepad)/issues>)
 
 Our dedicated support team is here to help you with any concerns or inquiries you may have. We strive to provide timely and helpful responses to ensure that your experience with Codepad.io is smooth and enjoyable.
 
