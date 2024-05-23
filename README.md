@@ -2,6 +2,8 @@
 
 Codepad is a web-based code editor designed specifically for Dart projects. It is a product of DartMind, a company dedicated to providing innovative tools and resources for Dart developers. Codepad.io offers a comprehensive and user-friendly environment for developers to write, edit, and run Dart code directly in their web browser. Inspired by the popular DartPad, Codepad.io focuses exclusively on the Dart programming language, offering a streamlined and efficient platform for Dart developers.
 
+![codepad_screenshot](images/codepad_screenshot.png)
+
 ## Key Features
 
 - **Intuitive Dart Code Editor**: Codepad.io boasts a powerful and intuitive code editor tailored for Dart programming. It offers a range of features to enhance the coding experience, including syntax highlighting, auto-completion, and code formatting. The editor supports intelligent code suggestions, making it easier to write clean and error-free Dart code.
